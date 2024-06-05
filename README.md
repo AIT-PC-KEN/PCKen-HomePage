@@ -1,4 +1,4 @@
-[トップページ][https://ait-pc-ken.github.io/PCKen-HomePage/](https://www.google.co.jp/)
+トップページ [テスト](https://www.google.co.jp/)
 パソコン研究部のホームページなり
 
 # ハード参戦！！
