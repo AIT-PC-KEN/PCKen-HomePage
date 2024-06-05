@@ -1,4 +1,4 @@
-# AIT_PCKen_WebPage.github.io
+[トップページ]https://ait-pc-ken.github.io/PCKen-HomePage/
 パソコン研究部のホームページなり
 
 # ハード参戦！！
