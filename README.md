@@ -1,4 +1,4 @@
- [テスト](https://www.google.co.jp/)
+ [テスト](https://ait-pc-ken.github.io/PCKen-HomePage/)
 
 # パソコン研究部のホームページなり
 
